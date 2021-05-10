@@ -1,4 +1,4 @@
-# **[Project 1: Mall Customers clustering: Project Overview]** 
+# **[Project 2: Mall Customers clustering: Project Overview]** 
 
 For this project, I will build a clustering model (unsupervised Machine Learning model) to identify the pattern of customers from a mall and group them into clusters accordingly. By this, I will also get a dependent variable from the result and can be used in further analysis using Supervised ML Model.
 
